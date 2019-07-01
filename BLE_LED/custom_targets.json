@@ -1,0 +1,20 @@
+{
+    "DWM1001_NRF52832_CORDIO" : {
+        "inherits": ["MCU_NRF52832"],
+        "release_versions": ["5"],
+        "device_name": "nRF52832_xxAA",
+        "macros_add": [
+            "GPIO_COUNT=1",
+            "P0_PIN_NUM=32"
+            ]
+    },
+    "DWM1001_NRF52832_SDK15" : {
+        "inherits": ["MCU_NRF52832"],
+        "release_versions": ["5"],
+        "device_name": "nRF52832_xxAA",
+        "macros_add": [
+            "GPIO_COUNT=1",
+            "P0_PIN_NUM=32"
+            ]
+    }    
+}

@@ -1,0 +1,11 @@
+mbed-os/features/cellular/AT/*
+mbed-os/features/cellular/targets/*
+mbed-os/features/lorawan/*
+mbed-os/features/nfc/*
+mbed-os/features/unsupported/*
+mbed-os/features/frameworks/greentea-client/*
+mbed-os/features/frameworks/mbed-client-cli/*
+mbed-os/features/frameworks/TARGET_PSA/*
+mbed-os/features/frameworks/unity/*
+mbed-os/features/frameworks/utest/*
+
